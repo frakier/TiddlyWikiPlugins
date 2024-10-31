@@ -2,7 +2,7 @@
 Nothing fancy just some plugins I threw together to make my like easier.
 
 CaptionForTitlePlugin
---Lets me make the title of a tiddler something like a program variable and still present in the view/story river a humnan readable caption/name
+--Lets me make the title of a tiddler something like a program variable and still present in the view/story river a humnan readable caption/name.
 
 RandomRollBuilderPlugin
 --Makes creating and displaying a d% table easier so I'm not making them from scrap every time.
