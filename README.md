@@ -9,3 +9,6 @@ RandomRollBuilderPlugin
 
 SVGDicePlugin
 --Pramterized dice, has a widget interface, for diplaying and coloring dice. Good for indicating what dice needs to be rolled.
+
+JSONDataPlugin
+--Work In Progress. Read, write JSON data and some special parsing stuff.
