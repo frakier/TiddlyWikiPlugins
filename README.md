@@ -14,4 +14,4 @@ JSONDataPlugin
 --Work In Progress. Read, write JSON data and some special parsing stuff.
 
 AdditionalLetterCasePlugin
---Plugin implementing custom letter case filters and wrapping them in widgets.
+--Plugin implementing custom letter case filter operators and wrapping them in widgets.
